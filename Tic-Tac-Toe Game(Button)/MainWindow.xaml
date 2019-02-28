@@ -1,0 +1,41 @@
+﻿<!--Group Six, Assignment 7 Tic-Tac-Toe Game-->
+    <Window x:Class="Tic_Tac_Toe_Game_Button_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tic_Tac_Toe_Game_Button_"
+        mc:Ignorable="d"
+        Title="Tic-Tac-Toe Game" Height="450" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height=".5*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>            
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="tic-tac-toe3.jpeg" Opacity="0.7"></ImageBrush>
+        </Grid.Background>
+        <!--Nine buttons and display the turn and button for new game -->
+        <Button Grid.Column="0" Grid.Row="1" Name="BtnOne" FontSize="45" Content="{Binding TextOne}" Margin="10" Click="BtnOne_Click"></Button>
+        <Button Grid.Column="1" Grid.Row="1" Name="BtnTwo" FontSize="45" Content="{Binding TextTwo}" Margin="10" Click="BtnTwo_Click"></Button>
+        <Button Grid.Column="2" Grid.Row="1" Name="BtnThree" FontSize="45" Content="{Binding TextThree}" Margin="10" Click="BtnThree_Click"></Button>
+        <Button Grid.Column="0" Grid.Row="2" Name="BtnFour" FontSize="45" Content="{Binding TextFour}" Margin="10" Click="BtnFour_Click"></Button>
+        <Button Grid.Column="1" Grid.Row="2" Name="BtnFive" FontSize="45" Content="{Binding TextFive}" Margin="10" Click="BtnFive_Click"></Button>
+        <Button Grid.Column="2" Grid.Row="2" Name="BtnSix" FontSize="45" Content="{Binding TextSix}" Margin="10" Click="BtnSix_Click"></Button>
+        <Button Grid.Column="0" Grid.Row="3" Name="BtnSeven" FontSize="45" Content="{Binding TextSeven}" Margin="10" Click="BtnSeven_Click"></Button>
+        <Button Grid.Column="1" Grid.Row="3" Name="BtnEight" FontSize="45" Content="{Binding TextEight}" Margin="10" Click="BtnEight_Click"></Button>
+        <Button Grid.Column="2" Grid.Row="3" Name="BtnNine" FontSize="45" Content="{Binding TextNine}" Margin="10" Click="BtnNine_Click"></Button>
+        <Label Grid.Column="3" Grid.Row="1" Height="50" Width="160" Content="Who's turn" Background="LightBlue" FontSize="30" Margin="5" VerticalAlignment="Top" HorizontalAlignment="Center"></Label>
+        <Label Grid.Column="3" Grid.Row="1" Height="50" Width="160" Background="LightBlue" FontSize="30" Content="{Binding DisplayTurn}" Margin="5" VerticalAlignment="Bottom" HorizontalAlignment="Center"></Label>
+        <Button Grid.Column="3" Grid.Row="3" Name="NewGame" Content="New Game" Width="180" FontSize="30" Margin="20" Click="NewGame_Click"></Button>
+        <Label Grid.Column="3" Grid.Row="2" Name="LblResult" FontSize="30" Content="{Binding LabelResult}" Margin="20,10" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+    </Grid>
+</Window>

@@ -1,0 +1,30 @@
+C:\program8010\week 8\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\Tic-Tac-Toe Game(Button).csprojAssemblyReference.cache
+C:\program8010\week 8\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\MainWindow.g.cs
+C:\program8010\week 8\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\App.g.cs
+C:\program8010\week 8\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\Tic-Tac-Toe Game(Button)_MarkupCompile.cache
+C:\program8010\week 8\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\Tic-Tac-Toe Game(Button)_MarkupCompile.lref
+C:\program8010\week 8\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\bin\Debug\Tic-Tac-Toe Game(Button).exe.config
+C:\program8010\week 8\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\bin\Debug\Tic-Tac-Toe Game(Button).exe
+C:\program8010\week 8\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\bin\Debug\Tic-Tac-Toe Game(Button).pdb
+C:\program8010\week 8\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\MainWindow.baml
+C:\program8010\week 8\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\Tic-Tac-Toe Game(Button).g.resources
+C:\program8010\week 8\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\Tic_Tac_Toe_Game_Button_.Properties.Resources.resources
+C:\program8010\week 8\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\Tic-Tac-Toe Game(Button).csproj.GenerateResource.cache
+C:\program8010\week 8\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\Tic-Tac-Toe Game(Button).csproj.CoreCompileInputs.cache
+C:\program8010\week 8\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\Tic-Tac-Toe Game(Button).exe
+C:\program8010\week 8\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\Tic-Tac-Toe Game(Button).pdb
+C:\program8010 C# WPF\week 8 list array dictionary\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\bin\Debug\Tic-Tac-Toe Game(Button).exe.config
+C:\program8010 C# WPF\week 8 list array dictionary\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\bin\Debug\Tic-Tac-Toe Game(Button).exe
+C:\program8010 C# WPF\week 8 list array dictionary\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\bin\Debug\Tic-Tac-Toe Game(Button).pdb
+C:\program8010 C# WPF\week 8 list array dictionary\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\Tic-Tac-Toe Game(Button).csprojAssemblyReference.cache
+C:\program8010 C# WPF\week 8 list array dictionary\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\MainWindow.g.cs
+C:\program8010 C# WPF\week 8 list array dictionary\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\App.g.cs
+C:\program8010 C# WPF\week 8 list array dictionary\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\Tic-Tac-Toe Game(Button)_MarkupCompile.cache
+C:\program8010 C# WPF\week 8 list array dictionary\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\Tic-Tac-Toe Game(Button)_MarkupCompile.lref
+C:\program8010 C# WPF\week 8 list array dictionary\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\MainWindow.baml
+C:\program8010 C# WPF\week 8 list array dictionary\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\Tic-Tac-Toe Game(Button).g.resources
+C:\program8010 C# WPF\week 8 list array dictionary\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\Tic_Tac_Toe_Game_Button_.Properties.Resources.resources
+C:\program8010 C# WPF\week 8 list array dictionary\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\Tic-Tac-Toe Game(Button).csproj.GenerateResource.cache
+C:\program8010 C# WPF\week 8 list array dictionary\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\Tic-Tac-Toe Game(Button).csproj.CoreCompileInputs.cache
+C:\program8010 C# WPF\week 8 list array dictionary\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\Tic-Tac-Toe Game(Button).exe
+C:\program8010 C# WPF\week 8 list array dictionary\Tic-Tac-Toe Game(Button)\Tic-Tac-Toe Game(Button)\obj\Debug\Tic-Tac-Toe Game(Button).pdb
